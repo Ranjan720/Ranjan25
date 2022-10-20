@@ -1,0 +1,3 @@
+Hello People :
+This is my first file on git....
+i hope yiu people are doing good!
